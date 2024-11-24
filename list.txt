@@ -5,6 +5,5 @@
 ! Homepage: https://github.com/vmedar/ads-list/new/main
 ! Works Best With: uBlock Origin or AdGuard
 
-! Start Web Annoyances Ultralist - Ad Placeholder Filters
-||kupujemprodajem.com##.Banner301_banner301__1Boce
-||telegraf.rs##.telegraf-bilbord-wrapper
+kupujemprodajem.com##.Banner301_banner301__1Boce
+telegraf.rs##.telegraf-bilbord-wrapper
