@@ -1,5 +1,5 @@
 ! Title: Ad Placeholder Filters
-! Last Modified: 19:12 2024-11-24
+! Last Modified: 19:13 2024-11-24
 ! Expires: 2 Days (Update Frequency)
 ! Description: Web Annoyances Ultralist Sublist for empty advertising placeholders.
 ! Homepage: https://github.com/vmedar/ads-list/new/main
