@@ -6,5 +6,4 @@
 ! Works Best With: uBlock Origin or AdGuard
 
 ! Start Web Annoyances Ultralist - Ad Placeholder Filters
-kupujemprodajem.com#.Banner301_banner301__1Boce
-||gemius.pl
+||kupujemprodajem.com##.Banner301_banner301__1Boce
