@@ -14,3 +14,5 @@ telegraf.rs##.telegraf-bilbord-wrapper
 @@||imasdk.googleapis.com^$important
 !rts stream
 @@||rtsradio-live.morescreens.com^$important
+!X
+@@||t.co^$important
