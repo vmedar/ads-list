@@ -16,3 +16,7 @@ telegraf.rs##.telegraf-bilbord-wrapper
 @@||rtsradio-live.morescreens.com^$important
 !X
 @@||t.co^$important
+!Viber
+||ads.viber.com^
+||ads.aws.viber.com^
+||ads-d.viber.com^
